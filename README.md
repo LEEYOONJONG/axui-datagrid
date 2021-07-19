@@ -13,6 +13,7 @@ npm install axui-datagrid
 
 # Run
 # Run1
+# Run2
 ```bash
 git clone https://github.com/jsdevkr/axui-datagrid.git
 cd axui-datagrid
